@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "node12",
+    "moduleResolution": "node12",
+    "target": "es2021",
+    "noImplicitAny": true
+  }
+}

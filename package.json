@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-ts-node12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:demurgos/rxjs-ts-node12.git",
+  "author": "Charles Samborski <demurgos@demurgos.net>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.0",
+    "rxjs": "^7.4.0",
+    "typescript": "^4.5.0-dev.20211014"
+  }
+}
